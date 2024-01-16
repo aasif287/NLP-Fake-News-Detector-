@@ -48,5 +48,5 @@ The hands-on project, "NLP: Fake News Detector," is structured into the followin
 
 Feel free to dive into the project, explore the tasks, and enhance your skills in NLP and deep learning!
 
-[Fake Dataset:]{https://drive.google.com/file/d/1-2WpXtZDjYry-FFja2iSWzQFTBbfV3a_/view?usp=sharing)
+[Fake Dataset:](https://drive.google.com/file/d/1-2WpXtZDjYry-FFja2iSWzQFTBbfV3a_/view?usp=sharing)
 [True Dataset](https://drive.google.com/file/d/1N3OU1LIMHryy9Cuz87xP4DTw3BKKPOZE/view?usp=sharing)
