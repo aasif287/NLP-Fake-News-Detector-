@@ -1,9 +1,9 @@
 # Welcome to "NLP: Fake News Detector"
 
 ## Project Overview
-Welcome to the hands-on project, "NLP: Fake News Detector." This project is designed to provide practical experience in natural language processing (NLP) and deep learning. You will be working with the [Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) available on Kaggle. Throughout the course, you will apply Python libraries, perform exploratory data analysis, clean text data, and build a deep learning model to detect fake news.
+Welcome to the hands-on project, "NLP: Fake News Detector." This project is designed to provide practical experience in natural language processing (NLP) and deep learning. You will be working with the [Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) available on Kaggle. Throughout the project, you will apply Python libraries, perform exploratory data analysis, clean text data, and build a deep learning model to detect fake news.
 
-## Course Objectives
+## Project Objectives
 In this project, you will achieve the following learning objectives:
 
 1. **Import Libraries and Datasets:**
